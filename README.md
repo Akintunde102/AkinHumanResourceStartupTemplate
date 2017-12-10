@@ -1,0 +1,1 @@
+This template is meant for a Human Resource StartUp, it has a very strong theme with emphasis or red. it is conceptualised to be simple but elegant. It has some php codes in it that can be used for mail services and other oprations. Do well to read the license and feel free to use and fork.
